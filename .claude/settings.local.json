@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php --version)",
+      "Bash(composer --version)",
+      "Bash(npm --version)",
+      "Bash(redis-cli --version)",
+      "Bash(docker --version)",
+      "Bash(docker compose:*)",
+      "WebSearch",
+      "Bash(npx tsc:*)"
+    ]
+  }
+}
