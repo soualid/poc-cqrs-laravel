@@ -8,6 +8,8 @@ Proof of Concept d'une architecture **CQRS** (Command Query Responsibility Segre
 - **Bases de donnees** : deux SQLite separees (write / read)
 - **Infra** : Docker Compose (PHP-FPM, Nginx, Redis, Node)
 
+![Apercu de l'application](docs/screenshots/image-1.png)
+
 ## Architecture
 
 ```
